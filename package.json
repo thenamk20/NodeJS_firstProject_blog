@@ -1,0 +1,30 @@
+{
+  "name": "learnnodejs",
+  "version": "1.0.0",
+  "description": "learn node js ",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon --inspect index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/thenamk20/NodeJS_firstProject_blog.git"
+  },
+  "keywords": [
+    "nodejs",
+    "thenamk20"
+  ],
+  "author": "thenamk20",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/thenamk20/NodeJS_firstProject_blog/issues"
+  },
+  "homepage": "https://github.com/thenamk20/NodeJS_firstProject_blog#readme",
+  "dependencies": {
+    "express": "^4.17.2"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.15"
+  }
+}
